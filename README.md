@@ -5,7 +5,7 @@
 ## About
 Python Script for removing sensitive data from Clover's `config.plist`. Useful if you plan to share your Config/EFI online. Also resets some settings to default values which should not be carried over to a different system. Check the feature list for more details.
 
-Based on my [OC-Anonymizer](https://github.com/OC-Anonymizer) work
+Based on my [OC-Anonymizer](https://github.com/dreamwhite/OC-Anonymizer) work
 
 ## Features
 
